@@ -25,20 +25,30 @@
 
 - 섹션 6까지 정리
 > [김성인](./seongin/내용정리/4주차.md)
-> 
+
 #### Action
 1. 양방향 연관관계가 다 필수일까?
 1. 연관관계 편의 메소드가 부족하다.
 1. 연관관계 편의 메소드가 한쪽에만 있어야 한다.
 
-
 ## 5주차
 
 - 섹션 7까지 정리
 
-#### Action
+## 6주차
+
+- 섹션 8까지 정리
+
+## 7주차
+
+- 섹션 9까지 정리
+
+### Action
 1. 문제 <- 함수형 문제(상속 관계 매핑) 적용여부 결정.
 1. Column 타입 JSON 적용
 1. createdby 도입여부 결정. (judge시 동작 고민)
 1. fk 이름 정하자
 1. @ManyToOne optional false 설정 적용
+1. ManyToOne에서 일급 컬렉션 이용해 보기
+1. Candidate Start, End Time을 값 타입으로 묶어서 메소드 만들고 사용하기
+1. kms 현재 OneToOne, EAGER
