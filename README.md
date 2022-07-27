@@ -50,5 +50,5 @@
 1. fk 이름 정하자
 1. @ManyToOne optional false 설정 적용
 1. ManyToOne에서 일급 컬렉션 이용해 보기
-2. Candidate Start, End Time을 값 타입으로 묶어서 메소드 만들고 사용하기
-3. kms 현재 OneToOne, EAGER
+1. Candidate Start, End Time을 값 타입으로 묶어서 메소드 만들고 사용하기
+1. kms 현재 OneToOne, EAGER
